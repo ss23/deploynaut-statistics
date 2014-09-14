@@ -1,0 +1,14 @@
+{
+    "name": "ss23/deploynaut-statistics",
+    "description": "Collect some useful statistics for Deploynaut",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Stephen Shkardoon",
+            "email": "ss23@ss23.geek.nz"
+        }
+    ],
+    "require": {
+        "silverstripe/deploynaut": "*"
+    }
+}
