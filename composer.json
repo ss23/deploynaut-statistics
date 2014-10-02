@@ -1,7 +1,8 @@
 {
     "name": "ss23/deploynaut-statistics",
     "description": "Collect some useful statistics for Deploynaut",
-    "license": "BSD",
+    "license": "BSD-3-Clause",
+    "type": "silverstripe-module",
     "authors": [
         {
             "name": "Stephen Shkardoon",
